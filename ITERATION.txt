@@ -1,0 +1,6 @@
+feedback and improvements: 1. don't know the control - add a tutorial to teach the controls
+2. no idea about why win or lose - explain the goal and failure in tutorial
+3. can't tell when the game loop starts and ends - add some visual and sound effects to hint about game restarts
+4. need puzzle or levels - add a puzzle level and a test level
+5. can't win the game in 5 mins - reduce level difficulty, now very easy (except the test level)
+6. want to play the game full screen - change resolution to full
